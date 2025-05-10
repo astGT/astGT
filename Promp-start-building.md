@@ -1,0 +1,1 @@
+Lets build an mcp server under D:\Projects\azureDevops-mcp . Check #file:mcp.md for a quick start on how to build a server . Use c# implement what is needed , my goals is toget the pbi description and to provide a plan to resolve the pbi

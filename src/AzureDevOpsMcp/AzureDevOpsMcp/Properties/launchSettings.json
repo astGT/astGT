@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "AzureDevOpsMcp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "AZURE_DEVOPS_ORG_URL": "https://dev.azure.com/ReFEEL",
+        "AZURE_DEVOPS_PROJECT": "ReFeelApp",
+        "AZURE_DEVOPS_TOKEN": "B2ZX3KHQAYIc2fSy0nQkeFDiz5IpkoPqrpJIxcH09hlqRwf0rEIpJQQJ99BEACAAAAAAAAAAAAASAZDOGzP2"
+      }
+    }
+  }
+}
