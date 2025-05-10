@@ -1,0 +1,40 @@
+# .NET build folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.vscode/
+*.vssscc
+.vscode/*
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+project.lock.json
+packages/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+*.swp
+*.swo
+*~
+*.idea/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
